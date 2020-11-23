@@ -1,4 +1,3 @@
-# FinalProjectML
 # FinalProjectML 
 
 What's in this project? (Based on a ML course by Pr. Lior Rokach, BGU)
